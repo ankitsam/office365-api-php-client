@@ -1,14 +1,14 @@
-# Office 365 APIs Client Library for PHP
+# Office 365 APIs PHO Client Library
 =====================================
 
 ### Description
 
-The Office 365 RESTful API Client Library enables you to work with Calendar, Contact and Mail that uses OAuth2 for authorization.
+The Office 365 RESTful API PHP Client Library enables you to work with Calendar, Contact and Mail that uses OAuth2 for authorization.
 
 Requirements:
-  PHP 5.2.x or higher [http://www.php.net/]
-  PHP Curl extension [http://www.php.net/manual/en/intro.curl.php]
-  PHP JSON extension [http://php.net/manual/en/book.json.php]
+  PHP 5.2.x or higher [http://www.php.net/]  
+  PHP Curl extension [http://www.php.net/manual/en/intro.curl.php]  
+  PHP JSON extension [http://php.net/manual/en/book.json.php]  
 
 ### Use
 
